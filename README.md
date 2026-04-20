@@ -59,7 +59,7 @@ The model identifies sensitive entities such as names and email.
 ```
 
 
-## ▶️ Usage
+## Usage
 
 ```bash
 python main.py
@@ -68,7 +68,7 @@ python main.py
 ---
 
 
-## 📌 Key Insights
+## Key Insights
 
 * Transformer models are highly effective for PII detection
 * Data quality has a major impact on performance
