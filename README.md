@@ -53,10 +53,13 @@ The model identifies sensitive entities such as names and email.
 
 ```
 ├── Data/
-├── Trained_PII_Model/
 ├── src/
 ├── Results/
 ```
+
+Due to GitHub size limitations, trained model files are not included in this repository.
+
+Download the model from: (https://drive.google.com/drive/folders/117CJ_f6FmC48IDJ5U_V8vnDAPk67iqn9?usp=sharing)
 
 
 ## Usage
