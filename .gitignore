@@ -1,0 +1,11 @@
+# Ignore large files
+model/
+*.bin
+*.pt
+*.h5
+
+
+# Python
+__pycache__/
+*.pyc
+venv/
